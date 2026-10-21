@@ -72,6 +72,7 @@ On the first run, the server generates an access key at:
 ```text
 ~/Library/Application Support/PrivateCloud/admin-key
 ```
+Default Key is "Sky@2026"
 
 Open that file locally and enter its contents on the sign-in screen. Keep the key private: it grants management access to all transfers, including deletion.
 
